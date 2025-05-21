@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Narges7596
 - 👀 I’m interested in video games and crafting.
-- 🌱 I’m currently learning ASP.Net Blazor
+- 🌱 I’m currently learning more about ASP.NET
 - 😄 Pronouns: she/her
 
 <!---
