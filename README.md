@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Narges7596
-- 👀 I’m interested in video games and crafting.
+- 🎮 I’m a software engineer and a game developer. 
+- ✂️ I like crafting.
 - 🌱 I’m currently learning more about ASP.NET
 - 😄 Pronouns: she/her
 
